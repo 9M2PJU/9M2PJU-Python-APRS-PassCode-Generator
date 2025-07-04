@@ -20,7 +20,7 @@ Designed for hams who need a quick way to generate passcodes for iGate or tools 
 ### 🔧 Command Line
 
 ```bash
-$ python3 passcode-generator.py 9M2PJU
+$ python3 9m2pju-passcode-generator.py 9M2PJU
 ```
 
 ---
