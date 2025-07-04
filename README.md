@@ -1,4 +1,4 @@
-# 🛰️ Python-APRS-PassCode-Generator
+# 🛰️ 9M2PJU-Python-APRS-PassCode-Generator
 
 A minimal, accurate, and reliable APRS-IS passcode generator — written in pure Python 🐍  
 Designed for hams who need a quick way to generate passcodes for iGate or tools like **Xastir**, **APRSdroid**, **YAAC**, etc.
