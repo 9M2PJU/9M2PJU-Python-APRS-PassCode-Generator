@@ -48,8 +48,7 @@ Licensed under the [MIT License](LICENSE) — free for personal, educational, or
 ## 👨‍💻 Author
 
 Made with passion for amateur radio by  
-**[9M2PJU](https://github.com/9M2PJU)**  
-📡 https://github.com/9M2PJU
+**[9M2PJU](https://github.com/9M2PJU)**
 
 ---
 
